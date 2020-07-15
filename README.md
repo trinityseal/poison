@@ -35,6 +35,8 @@ Contributors
 ---
 SirGustavx: [Github](https://github.com/sirgustavx "SirGustavx")
 
+Feedback and bugs report are welcome.
+
 License
 ---
 Copyright (c) Ricardo (Yato). All rights reserved.
