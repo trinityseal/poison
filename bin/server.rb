@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+# This file is a webserver for poison testing, can be deleted if you want
 require 'webrick'
 
 class Server < WEBrick::HTTPServlet::AbstractServlet
