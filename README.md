@@ -1,4 +1,3 @@
-<center>![](https://raw.githubusercontent.com/yexploit/poison/master/docs/banner.png?token=ALHJ5ODLH4ZCYZ4MCF7SZP27BZ3QE)</center>
 Poison URL Fuzzer
 ---
 ![](https://img.shields.io/github/license/yexploit/poison) ![](https://img.shields.io/github/last-commit/yexploit/poison) ![](https://img.shields.io/github/issues-closed-raw/yexploit/poison) ![](https://img.shields.io/github/stars/yexploit/poison?style=flat)
