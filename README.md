@@ -1,6 +1,6 @@
 Poison URL Fuzzer
 ---
-![](https://img.shields.io/github/last-commit/yexploit/poison) ![](https://img.shields.io/github/issues-closed-raw/yexploit/poison) ![](https://img.shields.io/github/stars/yexploit/poison?style=flat)
+![](https://img.shields.io/github/last-commit/yexploit/poison) ![](https://img.shields.io/github/issues-closed-raw/yexploit/poison) ![](https://img.shields.io/github/stars/yexploit/poison?style=flat) ![](https://img.shields.io/github/license/yexploit/poison)
 
 A Powerful and Lightweight URL Fuzzer written in Ruby for Discovering Files and Directories on a Web Server
 
